@@ -1,2 +1,2 @@
 Zilla Site
-https://www.pointzillafb.com/
+https://www.pointzilla.xyz/
